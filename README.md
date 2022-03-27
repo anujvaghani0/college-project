@@ -16,7 +16,7 @@
 ### [Mini Project 4](https://github.com/anujvaghani0/college-project/tree/master/190420116070_mp4)
 - Your task is to create a desktop version of this layout which displays when there is enough screen width to accommodate it. You can see the layout you are aiming for in the screenshot below.
 
-### [Assignment 1](https://github.com/anujvaghani0/college-project/tree/master/Assignment1)
+### [Assignment 1](https://github.com/anujvaghani0/college-project/tree/master/Assignment-1)
 - Install Visual Studio Code
 - Install git
 - Setup username and email in git
