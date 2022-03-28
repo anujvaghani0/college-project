@@ -6,7 +6,7 @@
 ### [Mini Project 2](https://github.com/anujvaghani0/college-project/tree/master/190420116070_mp2)
 - Create a Simple Increment and Decrement Counter Functionality using HTML, CSS, and JavaScript.
 
-### [Mini Project 3](https://github.com/anujvaghani0/college-project/tree/master/190420116070_mp3)
+### [Mini Project 3](https://anujvaghani0.github.io/college-project/190420116070_mp3/)
 - A "Start" button to start the stopwatch running.
 - A "Stop" button to pause/stop it.
 - A "Reset" button to reset the time back to 0.
@@ -16,7 +16,7 @@
 ### [Mini Project 4](https://github.com/anujvaghani0/college-project/tree/master/190420116070_mp4)
 - Your task is to create a desktop version of this layout which displays when there is enough screen width to accommodate it. You can see the layout you are aiming for in the screenshot below.
 
-### [Assignment 1](https://github.com/anujvaghani0/college-project/tree/master/Assignment-1)
+### [Assignment 1](https://anujvaghani0.github.io/college-project/Assignment-1/)
 - Install Visual Studio Code
 - Install git
 - Setup username and email in git
@@ -28,7 +28,7 @@
 - Push Your Repository to github
 - Submit the Github Repository URL
 
-### [Assignment 2](https://github.com/anujvaghani0/college-project/tree/master/Assignment-2)
+### [Assignment 2](https://anujvaghani0.github.io/college-project/Assignment-2/)
 - Create a simple guess the number type game. It should choose a random number between 1 and 100, then challenge the player to guess the number in 10 turns. After each turn the player should be told if they are right or wrong, and if they are wrong, whether the guess was too low or too high. It should also tell the player what numbers they previously guessed. The game will end once the player guesses correctly, or once they run out of turns. When the game ends, the player should be given an option to start playing again.
 
 ### [Assignment 3](https://github.com/anujvaghani0/college-project/tree/master/Assignment3)
